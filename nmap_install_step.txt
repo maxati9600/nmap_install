@@ -1,0 +1,6 @@
+apt-get install gcc make g++ autoconf
+git clone https://github.com/nmap/nmap
+cd nmap
+./confgure
+sudo make install
+make clean
